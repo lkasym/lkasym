@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I am currently pursuing a B.Tech in Computer Science Engineering (AI/ML Specialization) from Symbiosis Institute of Technology, Pune. My passion lies in leveraging Artificial Intelligence and Machine Learning to solve complex, real-world problems. With a solid foundation in AI/ML, Deep Learning, and MLOps, I am dedicated to creating practical and impactful applications.
+I am currently pursuing a B.Tech in Artificial Intelligence And Machine Learning from Symbiosis Institute of Technology, Pune. My passion lies in leveraging Artificial Intelligence and Machine Learning to solve complex, real-world problems. With a solid foundation in AI/ML, Deep Learning, and MLOps, I am dedicated to creating practical and impactful applications.
 
 - 🔭 I’m currently working on **Predictive AI for Stock Market Analysis**
 
