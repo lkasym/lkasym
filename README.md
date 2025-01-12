@@ -26,9 +26,9 @@ I am currently pursuing a B.Tech in Artificial Intelligence And Machine Learning
 - 📫 How to reach me **lakshit.mundra.16@gmail.com**
 
 <h2 align="left">💼 Experience:</h2>
-<h4 align = "Left"><b>Web Development Intern | OM Spare Parts Service (01/2023 - 06/2023)</b></h4>
+<h4 align = "Left"><b>Web Development Intern | OM Spare Parts Service (05/2023 - 07/2023)</b></h4>
   - Developed a functional business website, enhancing user experience and performance.
-<h4 align = "Left">Head | IEEE Geoscience and Remote Sensing Society (01/2022 - Present)</b></h4>
+<h4 align = "Left">Head | IEEE Geoscience and Remote Sensing Society (05/2023 - Present)</b></h4>
   - Led the team to achieve top 20 ranks in Smart India Hackathon 2024 at campus level.
 
 <!-- Social Media -->
