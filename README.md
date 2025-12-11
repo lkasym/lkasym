@@ -1,125 +1,189 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./banner.png" alt="Lakshit Mundra Banner" width="100%" style="border-radius:12px;"/>
-</p>
 
-<h1 align="center">  
-  <strong>Engineering Automated AI Agents & Intelligent ML Systems</strong>  
-  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="38"/>
+
+<!-- HEADER -->
+<div align="center">
+
+<img src="./banner.png" width="100%" style="border-radius:16px; margin-bottom:20px;"/>
+
+<h1 style="font-size: 42px; font-weight: 800; margin-bottom: -10px;">
+  Lakshit Mundra
 </h1>
 
-<p align="center">
-  <img src="./divider.gif" width="100%" />
-</p>
+<h3 style="font-size: 20px; font-weight: 400; color:#8fa3b8;">
+  AI Engineer • Automated Agents • Production ML • Systems Thinking
+</h3>
 
-<!-- Intro -->
-<img align="right" src="./hero.gif" width="360" style="border-radius:12px;"/>
-
-### 👋 **About Me**
-I specialize in **automated AI agents**, **LLM-driven decision systems**, and **production ML pipelines** that solve real problems — not toy use cases.
-
-My work revolves around:
-
-- **Autonomous AI Agents** with tool-use, memory & reasoning  
-- **LLM Workflow Automation** for business systems  
-- **Video & Temporal ML** (optical flow, contrastive learning)  
-- **Predictive AI for Stocks** (mid-cap NSE, engineered features)  
-- **End-to-End MLOps Pipelines** (FastAPI, Docker, CI/CD)
-
-Currently:
-- 🎯 **AI Intern @ Allentics IT Solutions**  
-- 🔍 Building intelligent automation systems across industries  
-- 📚 Pursuing **B.Tech AI & ML @ SIT Pune**
+</div>
 
 ---
 
-<p align="center">
-  <img src="./divider.gif" width="100%" />
-</p>
+<!-- SECTION: INTRO -->
+<div align="center">
 
-## 🔥 **What I'm Working On Now**
-- 🤖 Fully automated **multi-agent AI systems** (LLM + memory + tools)  
-- ⚡ Advanced **workflow automation engines** for enterprise operations  
-- 📈 Predictive modeling pipelines for **mid-cap NSE stocks**  
-- 🧠 Research on **contrastive + temporal ML** for sequence intelligence  
-- 🚀 Deploying ML systems with **Docker, FastAPI, CI/CD & monitoring**  
+<img src="./hero.gif" width="280" style="border-radius:20px; margin:10px 0 20px 0;" />
+
+</div>
+
+<p align="center">
+I don’t build “AI demos”.  
+I build **autonomous systems** — agents that reason, take decisions, use tools, and run full pipelines without human involvement.
+<br><br>
+This README is not a résumé.  
+It’s a **technical identity**.
+</p>
 
 ---
 
-<p align="center">
-  <img src="./divider.gif" width="100%" />
-</p>
+<!-- PREMIUM FEATURE BLOCK -->
+<div style="
+  background:#0d1117;
+  border:1px solid #1d2330;
+  border-radius:18px;
+  padding:22px;
+  box-shadow:0 0 18px rgba(0,0,0,0.45);
+">
 
+### 🧠 **Core Engineering Themes**
+- **AI Agents & Autonomy Systems** (LLM reasoning, memory, toolchains)  
+- **ML System Design** (pipelines → deployment → monitoring → feedback loops)  
+- **Video & Temporal Intelligence** (contrastive ML, motion modeling, flow analysis)  
+- **Predictive AI for Finance** (mid-cap NSE, engineered features, ensembles)  
+- **MLOps** (FastAPI, Docker, CI/CD, observability)
+
+</div>
+
+---
+
+<!-- PROGRESS BAR STYLE SECTION -->
+<div style="margin: 28px 0;">
+
+### 🚀 **Currently Building**
+
+<div style="font-family: monospace; font-size: 15px;">
+
+**AUTONOMOUS AGENT SYSTEMS**  
+███████████████░░░  82%  
+> Multi-agent orchestration, retrieval tools, execution chains  
+
+**MLOPS PIPELINES**  
+█████████████████░  91%  
+> Dockerized deployments, CI/CD, runtime monitoring  
+
+**VIDEO INTELLIGENCE**  
+███████████░░░░░░  63%  
+> Contrastive temporal models, motion signatures  
+
+</div>
+
+</div>
+
+---
+
+<!-- EXPERIENCE BLOCK -->
 ## ⚡ **Experience**
 
-### **AI Intern — Allentics IT Solutions (Present)**
-- Designing & deploying **automated AI agents** for business workflows  
-- Integrating **APIs, tools, vector databases, reasoning chains**  
-- Building real, scalable automation pipelines used in production  
+### **AI Intern — Allentics IT Solutions**
+Building:
+- intelligent agents  
+- workflow automation engines  
+- multi-step decision systems  
+- production-ready pipelines  
 
-### **Web Development Intern — OM Spare Parts Service (2023)**
-- Built a full business website with enhanced UX & speed  
-- Delivered production-ready features & optimizations  
+### **Web Dev Intern — OM Spare Parts**
+High-performance business website with optimized UX and load behavior.
+
+---
+
+<!-- GRID SHOWCASE -->
+## 🧩 **Projects That Define Me**
+
+<table>
+<tr>
+<td>
+
+### **Autonomous Agents Suite**  
+A workflow engine powered by LLM reasoning + memory + tool execution.  
+**Stack:** Python, FastAPI, Docker, LangChain, Redis  
+<img src="./project-agents.png" width="100%" style="border-radius:14px; margin-top:10px;"/>
+
+</td>
+<td>
+
+### **Echocardiogram Intelligence**  
+Unsupervised phase detection using motion vectors + contrastive learning.  
+**Stack:** PyTorch, OpenCV, Optical Flow  
+<img src="./project-echo.png" width="100%" style="border-radius:14px; margin-top:10px;"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### **Predictive Stock Models**  
+Custom-engineered signals + ensemble models for mid-cap NSE.  
+**Stack:** Pandas, Sklearn, Backtesting  
+<img src="./project-stock.png" width="100%" style="border-radius:14px; margin-top:10px;"/>
+
+</td>
+<td>
+
+### **Deepfake Detection Engine**  
+Temporal-spatial pipeline detecting manipulated video sequences.  
+**Stack:** PyTorch, CV, Sequence Models  
+<img src="./project-deepfake.png" width="100%" style="border-radius:14px; margin-top:10px;"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- SKILLS MATRIX -->
+## ⚙️ **Technical Capability Matrix**
+
+| Domain | Strength |
+|--------|----------|
+| **AI Agents / LLM Systems** | 🔥🔥🔥🔥🔥 |
+| **Deep Learning (Vision + Sequence)** | 🔥🔥🔥🔥 |
+| **Stock ML / Time-Series** | 🔥🔥🔥 |
+| **MLOps / Deployment** | 🔥🔥🔥🔥 |
+| **Backend / API Engineering** | 🔥🔥🔥 |
+
+---
+
+<!-- ICON WALL -->
+## 🛠 **Tools I Use to Build**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,git,opencv,postgres,mysql,postman" height="50"/>
+</p>
+
+---
+
+<!-- STATS -->
+## 📊 **GitHub Output**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lkasym&show_icons=true&hide_border=true&theme=radical&rank_icon=github" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=lkasym&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+<!-- CONTACT -->
+<h2 align="center">📫 Reach Me</h2>
+
+<p align="center">
+  <a href="mailto:lakshit.mundra.16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44"/></a>
+  <a href="https://linkedin.com/in/lakshit-mundra-909814249/"><img src="https://skillicons.dev/icons?i=linkedin" height="44"/></a>
+  <a href="https://github.com/lkasym"><img src="https://skillicons.dev/icons?i=github" height="44"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="./divider.gif" width="100%" />
+  <img src="./footer.png" width="100%" style="border-radius:12px;opacity:0.85;"/>
 </p>
 
-## 🌐 **Connect With Me**
-<p align="left">
-  <a href="https://linkedin.com/in/lakshit-mundra-909814249/"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
-  <a href="https://github.com/lkasym"><img src="https://skillicons.dev/icons?i=github" width="42"/></a>
-  <a href="mailto:lakshit.mundra.16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42"/></a>
-</p>
-
----
-
-## 🧠 **Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c" height="48"/>
-</p>
-
-## 🤖 **AI, ML & Data Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,jupyter,numpy,pandas" height="48"/>
-</p>
-
-## 📊 **Data & BI**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau" height="48"/>
-</p>
-
-## 🔌 **API Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman" height="48"/> 
-  <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="48"/>
-</p>
-
-## 🗄️ **Database**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
-</p>
-
----
-
-<p align="center">
-  <img src="./divider.gif" width="100%" />
-</p>
-
-## 🚀 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lkasym&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkasym&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-<p align="center">
-  <img src="./footer.gif" width="100%"/>
-</p>
-
-<p align="center">
-  <sub>Designed with precision — Focused on automation, intelligence & impact.</sub>  
+<p align="center" style="color:#7f8ea3;">
+  <sub>Precision • Autonomy • Systems Thinking</sub>
 </p>
