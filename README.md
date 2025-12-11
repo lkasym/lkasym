@@ -1,65 +1,128 @@
-<!-- Banner -->
-<p align="center"> <img src="./github-header-image.png" alt="Banner" /> </p> <h1 align="center"> Engineering Automated AI Agents & Intelligent Systems <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40"/> </h1> <p align="center"> <img src="./animated-line-image-0386.gif" width="100%" /> </p> <img align="right" width="390" src="242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkasym&label=Profile%20views&color=00B3B3&style=flat" /> </p>
-👨‍💻 About Me
+<!-- ===========================
+     PREMIUM README - Lakshit Mundra
+     Paste this whole file as README.md
+     Replace images in repo root or assets/ folder
+   =========================== -->
 
-I build automated AI systems and specialized AI agents that replace repetitive workflows, make intelligent decisions, and run end-to-end pipelines with zero human touch.
+<!-- Banner / Hero -->
+<p align="center">
+  <img src="./github-header-image.png" alt="Banner" style="max-width:100%;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,0.25)"/>
+</p>
 
-My work focuses on:
+<div align="center">
+  <h1 style="margin:6px 0 0 0">Lakshit Mundra</h1>
+  <p style="margin:6px 0 12px 0;font-size:16px;color:#475569">
+    Engineering Automated AI Agents • Production ML • Video & Temporal Intelligence
+  </p>
 
-AI Agents, Autonomy Engines & Workflow Automation
+  <!-- small social row (keeps it clean) -->
+  <a href="https://linkedin.com/in/lakshit-mundra-909814249/" title="LinkedIn" style="margin-right:10px;"><img src="https://skillicons.dev/icons?i=linkedin" width="36"/></a>
+  <a href="https://github.com/lkasym" title="GitHub" style="margin-right:10px;"><img src="https://skillicons.dev/icons?i=github" width="36"/></a>
+  <a href="mailto:lakshit.mundra.16@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="36"/></a>
+</div>
 
-Deep Learning for Vision, Video & Temporal ML
+---
 
-Predictive AI for Stock Market Analysis
+## 👋 Quick pitch (TL;DR)
+I build **automated AI agents and production ML systems** — from data pipelines and models to multi-agent orchestration and deployed services.  
+Currently an **AI Intern @ Allentics**, focusing on LLM-driven workflows, agent autonomy, and MLOps.
 
-LLMs for real products (not toy demos)
+---
 
-MLOps & Deployment Pipelines for reliable systems
+## 🔥 What I build (high-impact)
+- **Automated AI Agents & Multi-agent Systems** — decision-making, memory, tool integration, orchestrated pipelines.  
+- **Temporal & Video Intelligence** — optical-flow, contrastive learning, cardiac-phase detection.  
+- **Predictive AI** for mid-cap NSE stocks — practical feature engineering, ensemble stacks.  
+- **MLOps & Reliable Deployments** — FastAPI, Docker, CI/CD, monitoring.
 
-Currently pursuing B.Tech in AI & ML at SIT Pune, and working as an AI Intern at Allentics IT Solutions, building real automation systems across industries.
+---
 
-🔥 What I’m Doing Now
+<div align="center">
+  <img src="./animated-line-image-0386.gif" alt="divider" style="width:100%;max-width:920px;margin:18px 0"/>
+</div>
 
-🤖 Creating fully automated AI agents for business workflows (Allentics)
+## ⚡ Experience
+**AI Intern — Allentics IT Solutions (Present)**  
+- Building automated agents and LLM-driven workflow engines for business automation.  
+- Integrating external APIs, knowledge retrieval, action tools and observability.  
+- Designing deployable pipelines, with monitoring and rollback strategies.
 
-🚀 Designing multi-agent systems with decision-making + memory
+**Web Development Intern — OM Spare Parts Service (2023)**  
+- Built a production-ready business website with measurable performance improvements.
 
-📈 Developing predictive AI models for mid-cap NSE stocks
+---
 
-🧩 Researching contrastive & temporal learning for video intelligence
+## 🚀 Selected Projects (short & punchy)
+> Click project names to open the repo (if available) — keep the descriptions crisp and outcome-focused.
 
-⚙️ Setting up MLOps pipelines for scalable deployments
+- **Autonomous Agents Suite (Allentics)** — multi-agent orchestration with memory and toolchains for business workflows.  
+- **Echocardiogram Phase Detection** — unsupervised frame-level cardiac phase identification using optical flow + contrastive learning.  
+- **Predictive Stock Models** — feature-engineered mid-cap forecasting with ensemble blending and backtest results.  
+- **Deepfake Detection** — spatio-temporal hybrid model to detect manipulated video sequences.
 
-<p align="center"> <img src="./animated-line-image-0386.gif" width="100%" /> </p>
-⚡ Experience
-AI Intern — Allentics IT Solutions (Present)
+*(If you want I’ll convert this into a pinned-project card layout with demo GIFs.)*
 
-Building automated AI agents for business operations
+---
 
-Designing LLM-driven workflow engines
+## 🧭 Tech Snapshot
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,jupyter,git,numpy,pandas,opencv,sql" height="40" alt="tech-icons"/>
+</p>
 
-Integrating external tools, APIs & intelligent response systems
+**Tooling:** FastAPI, Docker, Postman, Swagger, GitHub Actions, Prometheus/Grafana (monitoring), SQL / MySQL.
 
-Producing real, deployable AI solutions
+---
 
-Web Development Intern — OM Spare Parts Service (2023)
+## 📈 GitHub Stats (clean & reliable)
+<p align="center">
+  <!-- replace username if needed -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lkasym&show_icons=true&theme=radical" alt="github-stats" width="420" style="border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,0.15)" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkasym&layout=compact&theme=radical" alt="top-langs" width="320" style="border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,0.15)" />
+</p>
 
-Built a production-grade website with improved performance & UX
+> Note: these services are stable; if you want custom local-generated charts (SVGs you commit) I can provide them.
 
-<p align="center"> <img src="./animated-line-image-0386.gif" width="100%" /> </p>
-🌐 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/lakshit-mundra-909814249/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> <a href="https://github.com/lkasym"><img src="https://skillicons.dev/icons?i=github" width="40"/></a> <a href="mailto:lakshit.mundra.16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a> </p>
-🧠 Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,python" height="45"/> </p>
-🤖 AI, ML & Data Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,jupyter,numpy,pandas" height="45"/> </p>
-📊 Data & BI
-<p align="center"> <img src="https://skillicons.dev/icons?i=powerbi,tableau" height="45"/> </p>
-🔌 API Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=postman" height="45"/> <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="45"/> </p>
-🗄️ Database
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" height="45"/> </p>
-<p align="center"> <img src="./animated-line-image-0386.gif" width="100%" /> </p>
-🚀 GitHub Stats
-<p align="center"> <img src="https://bad-apple-github-readme.vercel.app/api?username=lkasym&show_icons=true&theme=blue-green&count_private=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=lkasym&layout=compact&theme=blue-green" height="170"/> <img src="https://streak-stats.demolab.com/?user=lkasym&theme=blue-green" height="170"/> </p>
-<p align="center"> <img src="./animated-line-image-0381.gif" width="100%"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
+---
+
+## 📂 Showcase (visual project cards)
+<!-- Example simple project card — replace images with project screenshots -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:12px">
+        <img src="./project-echo.png" width="280" style="border-radius:12px;box-shadow:0 12px 30px rgba(0,0,0,0.18)"/><br/>
+        <strong>Echocardiogram Phase Detection</strong><br/>
+        Unsupervised cardiac-phase detection (optical flow + contrastive).  
+      </td>
+      <td align="center" style="padding:12px">
+        <img src="./project-agents.png" width="280" style="border-radius:12px;box-shadow:0 12px 30px rgba(0,0,0,0.18)"/><br/>
+        <strong>Autonomous Agents Suite</strong><br/>
+        Multi-agent orchestration, memory, and tool integration for business workflows.  
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠 Open to
+- Collaborations on ML systems, agent automation, or productionizing research.  
+- Intern/full-time roles in applied ML, MLOps, or AI product engineering.  
+- Mentorship requests for deep learning & production ML.
+
+---
+
+## 📫 Contact
+- **Email:** lakshit.mundra.16@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/lakshit-mundra-909814249/  
+- **GitHub:** https://github.com/lkasym
+
+---
+
+<div align="center">
+  <img src="./animated-line-image-0381.gif" alt="footer-line" style="max-width:100%;border-radius:8px"/>
+  <p style="font-size:12px;color:#94a3b8;margin-top:8px">Want a dark/neon aesthetic or an HTML landing page version of this README? Reply: <strong>dark</strong> or <strong>html</strong></p>
+</div>
+
+<!-- EOF -->
