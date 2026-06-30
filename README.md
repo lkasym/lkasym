@@ -1,150 +1,87 @@
 <p align="center">
-    <img src="./github-header-image.png" width="100%" style="border-radius:14px;">
+    <img src="./github-header-image.png" width="100%" style="border-radius:14px;">
 </p>
 
 <h1 align="center">
-    ✦ LAKSHIT MUNDRA — AI SYSTEMS ENGINEER ✦
+    Lakshit Mundra | AI Systems Engineer
 </h1>
 
 <p align="center">
-    <img src="./animated-line-image-0386.gif" width="100%">
+    <img src="./animated-line-image-0386.gif" width="100%">
 </p>
 
-<div>
-
-<img align="right" src="242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="300" style="border-radius:14px;margin-left:12px;">
-
-##   ◎ AI CORE IDENTITY
-<br>
-
-I build **autonomous AI systems** — agentic workflows, decision engines, temporal intelligence models, and automated pipelines that operate independently with reliability and purpose.
-
-<br>
-
-Role: **AI Intern — Allentics** • Degree: **B.Tech AI & ML, SIT Pune**
-</div>
+<p align="center">
+I've been building software for real clients since I was 19, mostly the systems they use to run their business day to day. I like taking a problem from nothing to shipped and owning the whole thing, the database, the backend, the frontend, and the AI parts where they earn their place.
+</p>
 
 <p align="center">
-    <img src="./animated-line-image-0381.gif" width="100%">
+<b>B.Tech AI & ML, Symbiosis Institute of Technology, Pune</b> · 50+ systems shipped for 15+ clients
+</p>
+
+<p align="center">
+    <img src="./animated-line-image-0381.gif" width="100%">
 </p>
 
 ---
 
-→ Loading AgentOS Kernel...
+## What I do
 
-→ Initializing LLM Cognitive Layers...
+I take a business problem and build the whole thing end to end, then keep it running. Most of my work is for clients in family entertainment, edtech, manufacturing, and consulting. I'm at my best when I own a system start to finish and get to make the calls myself.
 
-→ Linking Temporal Motion Models...
-
-→ Calibrating Autonomy Nodes...
-
-→ Boot Complete — All Systems Green ◎
+* AI agents and automation: multi-step workflows, tool calling, RAG, human approval gates, n8n and custom pipelines
+* LLM integration: Claude, OpenAI, Gemini, and open source models like Llama and GPT-OSS, with model routing, structured outputs, and fallbacks
+* Operations dashboards: role based, Postgres backed, wired to third party APIs, built so owners can actually run their business
+* Computer vision: verification pipelines, face recognition with InsightFace and FAISS
 
 <p align="center">
-    <img src="./animated-line-image-0386.gif" width="100%">
+    <img src="./animated-line-image-0386.gif" width="100%">
 </p>
 
 ---
 
-<div>
+## Things I've built and shipped
 
-##   ◎ ACTIVE MODULES — CURRENT ENGINEERING FOCUS
+**AI-Verified Operations System.** Field staff submit photo and video evidence of their daily work, and a dual model pipeline (Llama 4 Scout plus Claude Vision) checks each one, auto approves about 95%, and sends only the uncertain ones to a human. Over 30,850 checks in production.
 
-* **LLM Workflow Systems** — multi-step execution, RAG, tool-use orchestration
-* **Autonomous Agents** — stateful reasoning, adaptive planning, operational autonomy
-* **Video & Temporal ML** — optical flow, sequence modeling, medical temporal intelligence
-* **MLOps Engineering** — reproducible deployment, monitoring, Dockerized pipelines
+**Revenue Intelligence Dashboard.** Reads all of a venue's sales and operations data and tells the owner, in plain words, what's making money and what isn't. Role based views for crew, managers, and ownership.
 
-</div>
+**Multichannel Sales Pipeline.** Enquiry to close automation across email, WhatsApp, and an automated AI voice agent that qualifies leads and hands off to a human, with transcription, approval gates, and follow up loops.
+
+**Secure Video Platform.** Device locked course delivery for edtech institutes so paid content can't be screen recorded, screenshotted, or shared. Cloud to offline encryption, seat based licensing, two desktop apps and a web dashboard.
+
+**Offline Manufacturing Dashboard.** A full operations system for a diamond manufacturer that runs completely offline: order tracking, live inventory by weight and type, worker performance, and outstanding payments.
+
+**Face Recognition Entry.** Cardless member entry recognizing 1,000+ members with InsightFace and FAISS, plus 50,000+ digital waivers.
 
 <p align="center">
-    <img src="./animated-line-image-0381.gif" width="100%">
+    <img src="./animated-line-image-0381.gif" width="100%">
 </p>
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="330" style="border-radius:16px;">
-
-##   ◎ EXPERIENCE MODULE
-
-### **AI Intern — Allentics (Present)**
-* Architecting autonomous agent systems
-* LLM-based workflow engines
-* Backend pipelines for deployed intelligence
-* Reliability-focused ML engineering
-
-### **Web Dev Intern — OM Spare Parts**
-* Production web engineering
-* UX & performance optimization
+## Stack
 
 <p align="center">
-    <img src="./animated-line-image-0386.gif" width="100%">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,typescript,postgres,redis,docker,git" height="48">
+</p>
+
+**Backend:** Python, FastAPI, Flask
+**Frontend:** Next.js, React, TypeScript, vanilla JS
+**Data:** PostgreSQL, Supabase, Redis, MongoDB
+**AI:** Claude, OpenAI, Gemini, open source LLMs, RAG, FAISS, InsightFace
+**Automation:** n8n
+**Infra:** Docker, Git
+
+<p align="center">
+    <img src="./animated-line-image-0386.gif" width="100%">
 </p>
 
 ---
 
-<h2 align="center">
-    ◎ VERIFIED PROJECT ARCHIVE
-</h2>
-Loading dataset of engineered systems…
-Verification: SUCCESS
-Projects ready for review.
-
-### 🔹 **NFT Analysis Engine**
-Signal engineering + ML models for NFT market prediction.
-
-### 🔹 **Deepfake Detection**
-Hybrid spatial–temporal model for manipulation detection.
-
-### 🔹 **Echocardiogram Temporal Intelligence**
-Optical-flow + contrastive learning for cardiac phase extraction.
-
-### 🔹 **Smart Dynamic Pricing (RL Simulation)**
-Agent-based pricing behavior modeling.
-
-### 🔹 **Sentinel-2 Earth Change Detection**
-Satellite ML workflows for environmental intelligence.
-
-### 🔹 **AstroGo — AI-Driven Astrology System**
-Vector memory, GPT reasoning, geo-context fusion.
+<h2 align="center">Contact</h2>
 
 <p align="center">
-    <img src="./animated-line-image-0381.gif" width="100%">
+  <a href="mailto:lakshit.mundra.16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44"></a>
+  <a href="https://linkedin.com/in/lakshit-mundra-909814249"><img src="https://skillicons.dev/icons?i=linkedin" height="44"></a>
+  <a href="https://github.com/lkasym"><img src="https://skillicons.dev/icons?i=github" height="44"></a>
 </p>
-
----
-
-<h2 align="center">
-    ◎ TECH MATRIX — NEON OPS MODE
-</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,fastapi,docker,git,mysql,postman" height="50">
-</p>
-
-<table align="center">
-<tr><td style="padding:10px;">AI / ML</td><td style="padding:10px;">PyTorch, TensorFlow, Sklearn</td></tr>
-<tr><td style="padding:10px;">Temporal / Vision</td><td style="padding:10px;">Optical Flow, Motion Encoding</td></tr>
-<tr><td style="padding:10px;">Backend / MLOps</td><td style="padding:10px;">FastAPI, Docker, CI/CD</td></tr>
-<tr><td style="padding:10px;">Data</td><td style="padding:10px;">Pandas, NumPy, MySQL</td></tr>
-</table>
-
-<p align="center">
-    <img src="./animated-line-image-0386.gif" width="100%">
-</p>
-
----
-
-<h2 align="center">
-    ◎ CONTACT INTERFACE ONLINE
-</h2>
-
-<p align="center">
-  <a href="mailto:lakshit.mundra.16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
-  <a href="https://linkedin.com/in/lakshit-mundra-909814249"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-  <a href="https://github.com/lkasym"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
-</p>
-
-<h3 align="center">
-  ◎ Precision • Autonomy • AI Core Engineering
-</h3>
